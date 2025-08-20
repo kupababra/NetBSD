@@ -1,2 +1,2 @@
 # NetBSD
-scripts for NetBSD
+Simple scripts for anyone using NetBSD
